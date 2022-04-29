@@ -10,6 +10,7 @@
     "format:lint": "npm run format && npm run lint",
     "clear": "rimraf dist"
   },
+  "type": "module",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
